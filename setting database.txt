@@ -1,0 +1,16 @@
+koneksi database aplikasi ujian
+
+ujian/protected/.env
+ujian/protected/app/Http/Controllers/SiswaController.php
+ujian/protected/config/database.php
+ujian/protected/app/functions/koneksi.php
+
+akun demo :
+
+Guru : 
+	email: admin@gmail.com
+	pass: 123456
+
+Siswa :
+	email: m@gmail.com
+	pass: 123456
